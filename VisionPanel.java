@@ -3,7 +3,7 @@
 // 
 import javax.swing.*;
 import java.awt.*;
-import java.util.Random;
+
 
 public class VisionPanel extends JPanel
 {
